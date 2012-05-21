@@ -72,7 +72,7 @@ GEM
       activerecord (= 3.1.0)
       activeresource (= 3.1.0)
       activesupport (= 3.1.0)
-      bundler 
+      bundler (~> 1.0) 
       railties (= 3.1.0)
     railties (3.1.0)
       actionpack (= 3.1.0)
@@ -107,6 +107,8 @@ GEM
       execjs (>= 0.3.0)
       multi_json (>= 1.0.2)
 
+PLATFORMS
+  x86-mingw32
 
 DEPENDENCIES
   coffee-rails (~> 3.1.0)
