@@ -14,7 +14,6 @@ gem 'pg'
 end
 
 gem 'execjs'
-gem 'therubyracer'
 
 # Gems used only for assets and not required
 # in production environments by default.
